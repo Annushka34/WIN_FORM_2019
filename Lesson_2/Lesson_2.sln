@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_TextBox", "Lesson_2\01_TextBox.csproj", "{43FA7F0A-D401-4889-800E-8844BB851716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Opacity_Timer_ProgrBar", "02_Opasity_Timer_ProgrBar\02_Opacity_Timer_ProgrBar.csproj", "{6A7A17A3-9600-44FB-8F85-3E1506CDAE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_CheckBox_RadioBtn", "03_ListBox_CheckBox\03_CheckBox_RadioBtn.csproj", "{B02A2DF4-9483-4A27-82DF-51CE62F23332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_DataGridView", "04_DataPicker_Numeric\04_DataGridView.csproj", "{52A561CC-534F-4236-A45C-9733C934B8D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43FA7F0A-D401-4889-800E-8844BB851716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FA7F0A-D401-4889-800E-8844BB851716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FA7F0A-D401-4889-800E-8844BB851716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FA7F0A-D401-4889-800E-8844BB851716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7A17A3-9600-44FB-8F85-3E1506CDAE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7A17A3-9600-44FB-8F85-3E1506CDAE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7A17A3-9600-44FB-8F85-3E1506CDAE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7A17A3-9600-44FB-8F85-3E1506CDAE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02A2DF4-9483-4A27-82DF-51CE62F23332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02A2DF4-9483-4A27-82DF-51CE62F23332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02A2DF4-9483-4A27-82DF-51CE62F23332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02A2DF4-9483-4A27-82DF-51CE62F23332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A561CC-534F-4236-A45C-9733C934B8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A561CC-534F-4236-A45C-9733C934B8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A561CC-534F-4236-A45C-9733C934B8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A561CC-534F-4236-A45C-9733C934B8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF0765D-4FBC-4929-9C62-A443DAD85348}
+	EndGlobalSection
+EndGlobal
