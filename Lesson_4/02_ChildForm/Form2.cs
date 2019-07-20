@@ -42,5 +42,23 @@ namespace _02_ChildForm
         {
             _parent.Close();
         }
+
+   
+
+
+        public void SetFocusTextBox ()
+        {
+            this.textBox1.Enabled = true;
+            this.textBox1.Focus();
+        }
+
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                this.textBox1.Enabled = false;
+                _parent.SetFocusForm3();
+            }
+        }
     }
 }
